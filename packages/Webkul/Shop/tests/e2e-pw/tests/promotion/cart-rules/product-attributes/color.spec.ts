@@ -5,7 +5,6 @@ import { RuleDeletePage } from "../../../../pages/admin/marketing/promotion/Rule
 import { RuleCreatePage } from "../../../../pages/admin/marketing/promotion/RuleCreatePage";
 import { RuleApplyPage } from "../../../../pages/shop/rules/RuleApplyPage";
 import { loginAsAdmin } from "../../../../utils/admin";
-import { get } from "https";
 
 type CouponType = "fixed" | "percentage";
 
